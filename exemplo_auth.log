@@ -1,0 +1,12 @@
+Nov 14 10:01:12 servidor sshd[1201]: Accepted password for yuri from 192.168.1.10 port 50122 ssh2
+Nov 14 10:03:40 servidor sshd[1210]: Failed password for root from 203.0.113.45 port 52311 ssh2
+Nov 14 10:03:43 servidor sshd[1210]: Failed password for root from 203.0.113.45 port 52312 ssh2
+Nov 14 10:03:47 servidor sshd[1210]: Failed password for root from 203.0.113.45 port 52313 ssh2
+Nov 14 10:03:51 servidor sshd[1210]: Failed password for root from 203.0.113.45 port 52314 ssh2
+Nov 14 10:03:55 servidor sshd[1210]: Failed password for root from 203.0.113.45 port 52315 ssh2
+Nov 14 10:10:02 servidor sshd[1230]: Failed password for admin from 198.51.100.7 port 41001 ssh2
+Nov 14 10:10:06 servidor sshd[1230]: Failed password for admin from 198.51.100.7 port 41002 ssh2
+Nov 14 10:15:20 servidor app[1301]: ERROR falha ao conectar ao banco de dados
+Nov 14 10:22:31 servidor sshd[1250]: Failed password for user from 192.168.1.77 port 60210 ssh2
+Nov 14 10:30:09 servidor kernel: ERROR disco quase cheio
+Nov 14 10:41:55 servidor sshd[1270]: Accepted password for yuri from 192.168.1.10 port 50188 ssh2
